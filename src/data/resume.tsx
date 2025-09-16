@@ -133,7 +133,26 @@ export const DATA = {
       dates: "Nov 2024 - Feb 2025",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        `🚀 DredgeHub – A Modern Web Solution for Digital Presence
+
+DredgeHub
+ is a sleek, responsive web application designed to help individuals and businesses establish a powerful online presence. Built using modern technologies like Next.js, Tailwind CSS, and Framer Motion, it offers fast performance, smooth animations, and a clean, user-friendly interface.
+
+💡 Key Features:
+
+Fully responsive layout for optimal viewing on desktop and mobile devices
+
+Dynamic and smooth animations for an engaging user experience
+
+Built with Next.js for server-side rendering, SEO optimization, and scalability
+
+Tailwind CSS for utility-first styling and rapid UI development
+
+Modular component structure for easy customization and future extensibility
+
+🔧 Project Purpose:
+DredgeHub serves as a portfolio platform, project showcase, or business landing page. It enables users to display their work, services, and important links with an attractive and interactive interface.
+It is perfect for freelancers, developers, designers, or small businesses looking for a lightweight yet powerful web solution.`,
       technologies: [
         "React.js",
         `Express.js`,

@@ -7,8 +7,7 @@ export const DATA = {
   url: "https://dillion.io",
   location: "MUMBAI",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
-  description:
-    `Full Stack Developer turning Coffee into Code ☕💻, 
+  description: `Full Stack Developer turning Coffee into Code ☕💻, 
   Diploma in Computer Engineering ✔️, now pursuing B.Tech 🎓,
   Always building, always learning, always coding. 🚀`,
   summary:
@@ -25,11 +24,9 @@ export const DATA = {
     "Git",
     "Github",
     "MongoDB",
-    "Express.js"
+    "Express.js",
   ],
-  navbar: [
-  { href: "/", icon: HomeIcon, label: "Home" },
-],
+  navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   contact: {
     email: "hello@example.com",
     tel: "+123456789",
@@ -82,9 +79,7 @@ export const DATA = {
       logoUrl: "/um.png",
       start: "June 2025",
       end: "July 2025",
-      description:
-        "",
-        
+      description: "",
     },
     {
       company: "SAGAR AN SYSTEMS ",
@@ -95,10 +90,8 @@ export const DATA = {
       logoUrl: "/sn.png",
       start: "June 2024",
       end: "August 2024",
-      description:
-        "",
+      description: "",
     },
-  
   ],
   education: [
     {
@@ -132,11 +125,7 @@ export const DATA = {
       href: "https://dredgehub.vercel.app/",
       dates: "Nov 2024 - Feb 2025",
       active: true,
-      description:
-        `🚀 DredgeHub – A Modern Web Solution for Digital Presence
-
-DredgeHub
- is a sleek, responsive web application designed to help individuals and businesses establish a powerful online presence. Built using modern technologies like Next.js, Tailwind CSS, and Framer Motion, it offers fast performance, smooth animations, and a clean, user-friendly interface.
+      description: `🚀 DredgeHub – A Modern Web Solution for Digital Presence DredgeHub is a sleek, responsive web application designed to help individuals and businesses establish a powerful online presence. Built using modern technologies like Next.js, Tailwind CSS, and Framer Motion, it offers fast performance, smooth animations, and a clean, user-friendly interface.
 
 💡 Key Features:
 
@@ -153,12 +142,7 @@ Modular component structure for easy customization and future extensibility
 🔧 Project Purpose:
 DredgeHub serves as a portfolio platform, project showcase, or business landing page. It enables users to display their work, services, and important links with an attractive and interactive interface.
 It is perfect for freelancers, developers, designers, or small businesses looking for a lightweight yet powerful web solution.`,
-      technologies: [
-        "React.js",
-        `Express.js`,
-        "TailwindCSS",
-        "MONGO DB",
-      ],
+      technologies: ["React.js", `Express.js`, "TailwindCSS", "MONGO DB"],
       links: [
         {
           type: "Website",
@@ -172,22 +156,15 @@ It is perfect for freelancers, developers, designers, or small businesses lookin
         },
       ],
       image: "/dhb.png",
-      video:
-        "",
+      video: "",
     },
     {
       title: "E-Gram Panchayat",
       href: "https://e-gram-panchayat-kohl.vercel.app/login",
       dates: "June 2025 - July 2025",
       active: true,
-      description:
-        "",
-      technologies: [
-         "React.js",
-        "JavaScript",
-        "TailwindCSS",
-        "FireBase",
-      ],
+      description: "",
+      technologies: ["React.js", "JavaScript", "TailwindCSS", "FireBase"],
       links: [
         {
           type: "Website",
@@ -208,14 +185,8 @@ It is perfect for freelancers, developers, designers, or small businesses lookin
       href: "https://llm.report",
       dates: "April 2023 - September 2023",
       active: true,
-      description:
-        "",
-      technologies: [
-       "React.js",
-        "JavaScript",
-        "TailwindCSS",
-        "FireBase",
-      ],
+      description: "",
+      technologies: ["React.js", "JavaScript", "TailwindCSS", "FireBase"],
       links: [
         {
           type: "Website",
